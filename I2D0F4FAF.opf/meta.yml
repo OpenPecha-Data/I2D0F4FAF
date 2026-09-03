@@ -1,0 +1,23 @@
+id: I2D0F4FAF
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-TC-19
+  title: ༄༅། །རྫོགས་ཆེན་ཨ་ཏི་ཟབ་དོན་སྙིང་པོའི་ལོ་རྒྱུས་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ།
+  sku: MIN-TC-19
+  cover: MIN-TC-19.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །རྫོགས་ཆེན་ཨ་ཏི་ཟབ་དོན་སྙིང་པོའི་ལོ་རྒྱུས་བཞུགས་སོ།།
+  authors: *id001
+  sku: MIN-TC-19
+  cover: MIN-TC-19.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Commentary
+- Sabche
+- Yigchung
